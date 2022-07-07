@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Aplikasi Resep Makanan',
+        title: 'Aplikasi Daftar jurnal',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
